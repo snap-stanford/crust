@@ -16,7 +16,7 @@ The code is built with following libraries:
 We provide a training example with this repo:
 
 ```bash
-python cifar_train.py --gpu 0 --use_crust
+python robust_cifar_train.py --gpu 0 --use_crust
 ```
 
 ### Reference
